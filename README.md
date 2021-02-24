@@ -6,17 +6,17 @@ This application is built using Flutter and Firebase which allows users to selec
 ### Landing
 ![Screenshot](screenshots/1.jpg)
 
-### Landing
+### Authentication
 ![Screenshot](screenshots/2.jpg)
 
-### Landing
+### Renting
 ![Screenshot](screenshots/3.jpg)
 
-### Landing
+### All sections
 ![Screenshot](screenshots/4.jpg)
 
-### Landing
+### Servicing form
 ![Screenshot](screenshots/5.jpg)
 
-### Landing
+### Contact Us
 ![Screenshot](screenshots/6.jpg)
